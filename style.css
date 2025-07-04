@@ -1,0 +1,20 @@
+.custom-bg {
+    background-color: #002060 !important;
+}
+#wps-name {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14pt;
+    font-weight: bold;
+    background-color: #E60028;
+    padding: 2px 6px;
+}
+.section-title {
+    background-color: #002060;
+    font-size: 14pt;
+    color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+#cv {
+    margin-top: 100px; /* Adjust for fixed header */
+}
